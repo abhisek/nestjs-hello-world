@@ -19,7 +19,6 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@aws-crypto/sha256-browser": "^5.2.0",
     "@aws-sdk/client-s3": "^3.478.0",
     "@aws-sdk/hash-node": "^3.374.0",
     "@aws-sdk/protocol-http": "^3.374.0",
